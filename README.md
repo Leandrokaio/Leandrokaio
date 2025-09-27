@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leandrokaio&show_icons=true&hide_title=true&count_private=true&hide_border=false&title_color=ab0903&icon_color=ab0903&text_color=ffffff&bg_color=0d1117" alt="Kaio Leandro github stats" /> 
-  <img width="42%" height="174px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrokaio&layout=compact&hide_border=false&title_color=ab0903&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandrokaio&show_icons=true&hide_title=true&count_private=true&hide_border=false&title_color=ab0903&icon_color=ab0903&text_color=ffffff&bg_color=0d1117" alt="Kaio Leandro github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrokaio&layout=compact&hide_border=false&title_color=ab0903&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 
