@@ -1,45 +1,84 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=590000&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Kaio+Leandro;I'm+a+Web+Developer+;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leandrokaio&bg_color=0d1117&color=ab0903&line=820501&point=820501&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center"> 
-  <a href = "mailto:cmp.1a.kaiofacanha.ti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/kaio-leandro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
+<br>
+<br>
 <br>
 
-
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandrokaio&show_icons=true&hide_title=true&count_private=true&hide_border=false&title_color=ab0903&icon_color=ab0903&text_color=ffffff&bg_color=0d1117" alt="Kaio Leandro github stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrokaio&layout=compact&langs_count=7&hide_border=false&title_color=ab0903&text_color=ffffff&bg_color=0d1117" />
+<div align="center">
+  <img align="center" height="150" src="https://imgur.com/a/NNANmjU"/>
 </div>
-
-
-<img align="right" height="200" src="https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg5NDkyMjAsIm5iZiI6MTc1ODk0ODkyMCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI3VDA0NTUyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc2NzhjMGI0OWVhZDNmOTA0NTZkZmRlYTdmMzY3ZDBlNmJmOTk4ZWFmN2FjYzU4YzUyY2NhZDZkZWE3OWM2ZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.J1gK849bRpDNQ8c4R8Ir9RmtH6uweVMcFRMzoeKYZJs"  />
-
-<h3 align="left">Main Skills</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Kaio Leandro</b>
+  </samp>
 </div>
 
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9f111b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+</div>
 
+<br>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Leandrokaio&text_color=ffffff&icon_color=9f111b&title_color=9f111b&show_icons=true&hide_border=true&count_private=true&rank_icon=github&theme=shadow_red&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrokaio&hide_border=true&text_color=ffffff&title_color=9f111b&layout=compact&font=Iosevka&langs_count=16&theme=shadow_red"/>
+  <br>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leandrokaio&title_color=9f111b&grid=true&bg_color=151515&color=ffffff&line=9f111b&radius=16&theme=one-dark&area=true&order=5&hide_title=false&hide_border=true" height="250" alt="activity-graph graph"  />
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=590000&height=120&section=footer"/>
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  
+</div>
 
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-9f111b?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kaiofacanha.ti@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-9f111b?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/leandrokaio__/?next=%2F)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-9f111b?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kaio-leandro/)
+  
+</div>
+
+</details>
