@@ -74,7 +74,7 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-9f111b?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kaiofacanha.ti@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-9f111b?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/leandrokaio__/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-9f111b?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kaio-leandro/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-9f111b?style=for-the-badge&logo=linkedin&logoColor=fffff)](https://www.linkedin.com/in/kaio-leandro/)
   
 </div>
 
