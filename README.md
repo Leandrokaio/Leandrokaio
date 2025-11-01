@@ -29,6 +29,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leandrokaio&title_color=9f111b&grid=true&bg_color=151515&color=ffffff&line=9f111b&radius=16&theme=one-dark&area=true&order=5&hide_title=false&hide_border=true" height="250" alt="activity-graph graph"  />
 </div>
 
+
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
