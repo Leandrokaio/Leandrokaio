@@ -2,7 +2,7 @@
 <br>
 <br>
 <div align="center">
-  <img align="center" height="150" src="pngwing.com.png"/>
+  <img align="center" height="150" src="hollow-knight.png"/>
 </div>
 
 <div align="center">
